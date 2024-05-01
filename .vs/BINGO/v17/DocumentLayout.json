@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\Desktop\\Github\\BINGO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFED18-607A-4C53-A220-4E83F2D79602}|BINGO\\BINGO.csproj|c:\\users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\desktop\\github\\bingo\\bingo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FFED18-607A-4C53-A220-4E83F2D79602}|BINGO\\BINGO.csproj|solutionrelative:bingo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FFED18-607A-4C53-A220-4E83F2D79602}|BINGO\\BINGO.csproj|c:\\users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\desktop\\github\\bingo\\bingo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2FFED18-607A-4C53-A220-4E83F2D79602}|BINGO\\BINGO.csproj|solutionrelative:bingo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\Desktop\\Github\\BINGO\\BINGO\\Form1.cs",
+              "RelativeDocumentMoniker": "BINGO\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\Desktop\\Github\\BINGO\\BINGO\\Form1.cs",
+              "RelativeToolTip": "BINGO\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAZmZmZmb2vwEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:55:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\Desktop\\Github\\BINGO\\BINGO\\Form1.cs",
+              "RelativeDocumentMoniker": "BINGO\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u3088\u306D\u304B\u308F\u3000\u306F\u308B\u304D\\Desktop\\Github\\BINGO\\BINGO\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "BINGO\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:54:56.307Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

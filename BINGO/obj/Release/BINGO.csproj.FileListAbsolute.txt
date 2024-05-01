@@ -9,3 +9,13 @@ C:\Users\81708\Desktop\BINGO\BINGO\obj\Release\BINGO.csproj.GenerateResource.cac
 C:\Users\81708\Desktop\BINGO\BINGO\obj\Release\BINGO.csproj.CoreCompileInputs.cache
 C:\Users\81708\Desktop\BINGO\BINGO\obj\Release\BINGO.exe
 C:\Users\81708\Desktop\BINGO\BINGO\obj\Release\BINGO.pdb
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\bin\Release\BINGO.exe.config
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\bin\Release\BINGO.exe
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\bin\Release\BINGO.pdb
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.csproj.AssemblyReference.cache
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.Form1.resources
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.Properties.Resources.resources
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.csproj.GenerateResource.cache
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.csproj.CoreCompileInputs.cache
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.exe
+C:\Users\よねかわ　はるき\Desktop\Github\BINGO\BINGO\obj\Release\BINGO.pdb

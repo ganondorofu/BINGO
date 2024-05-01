@@ -16,7 +16,6 @@ namespace BINGO
         private List<int> list; //listをクラスのメンバー変数に変更
         private List<int> result;
         private int rand;
-        string Text = ""; // 初期化する
         private int num = 0;
 
         
